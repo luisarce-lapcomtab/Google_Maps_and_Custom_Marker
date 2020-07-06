@@ -1,4 +1,4 @@
-# Google-Maps-and-Custom-Marker
+# Google Maps and Custom Marker
 
 A new Flutter project.
 
